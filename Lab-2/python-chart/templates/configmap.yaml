@@ -6,6 +6,6 @@ data:
   ENVIRONMENT: "DEV"
   HOST: "localhost"
   PORT: "8000"
-  REDIS_HOST: "redis-app"
+  REDIS_HOST: "redis-app-redis-chart"
   REDIS_PORT: "6379"
   REDIS_DB: "0"
